@@ -1,9 +1,9 @@
 ---
 title: Credentials
-description: Retrieving your digitalocean credentials.
+description: Retrieving your DigitalOcean credentials.
 ---
 
-To provision resources with DigitalOcean you will need 2 types of credentials.
+To provision resources with DigitalOcean, you will need 2 types of credentials.
 
 + Spaces Token - used for setting up spaces buckets
 + API Token - used for setting up compute, databases and networking
