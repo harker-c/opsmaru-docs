@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-description: What is OpsMaru and what it can do for you.
+description: What is OpsMaru? And what can it do for you?
 ---
 
 OpsMaru is a deployment platform creator. It helps developers setup platforms and also configures your applications for continuous deployment.
