@@ -94,4 +94,5 @@ The video below shows you how to connect your repository to terraform cloud, and
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/079bdd740b65437f88b3331edbfb4b6f?sid=ffff90cc-1313-42a9-b075-5dc642f7686f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-
+## Technical Preview
+We're building quickly at OpsMaru and new features are being added weekly. At the same time, we have a high bar for what we think will be the complete OpsMaru offering. For example, in 2024, we want users to be able to combine frameworks, cloud providers and services into over 2,400 different combinations. That means that we're moving fast, and while core features and functionality operate as expected, some of the very newest features could have temporary rough edges. For this reason, OpsMaru is in technical preview at the moment.
