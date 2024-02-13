@@ -1,11 +1,11 @@
 ---
 title: SSH Keys
-description: Managing your ssh key in aws console.
+description: Managing your ssh key in the AWS console.
 ---
 
-This guide shows you how to import your ssh key into your aws account.
+This guide shows you how to import your ssh key into your AWS account.
 
-Let's begin by browsing to the EC2 screen of your AWS console. Once on the EC2 dashboard look on the sidebar you'll see the `Key Pairs` section.
+Let's begin by going to the EC2 screen of your AWS console. Once on the EC2 dashboard, look at the sidebar and you'll see the `Key Pairs` section.
 
 ![Key pairs](../../../../assets/infrastructure/aws/key-pairs.png)
 
@@ -23,7 +23,7 @@ Type in the name of the key pair and copy the contents of your public ssh key in
 
 ## Public key content
 
-You can get the public key content from your terminal by running
+You can get the public key contents from your terminal by running
 
 ```bash
 cat ~/.ssh/id_rsa.pub
